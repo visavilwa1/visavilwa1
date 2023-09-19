@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daisy
-- 👀 I’m interested in cybersecurity and frontend Developement
+- 👀 I’m interested in cybersecurity and front-end Developement
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on javascript projects
 - 📫 How to reach me visavilwadaisy1@gmail.com
