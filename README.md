@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Visavilwa Daisy</h1>
 <h3 align="center">a tech enthusiast with a passion for cybersecurity and frontend development. Welcome to my corner of the digital world! 🌐✨</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 📝 I regularly write articles on [https://flowcv.me/daisyvisavilwa](https://flowcv.me/daisyvisavilwa)
 
 - 📫 How to reach me **daisyvisavilwa1@gmail.com**
