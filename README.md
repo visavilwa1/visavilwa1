@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Visavilwa Daisy</h1>
 <h3 align="center">a tech enthusiast with a passion for cybersecurity and frontend development. Welcome to my corner of the digital world! 🌐✨</h3>
-<img algin="right" src="https://imgs.search.brave.com/M7EEcX-uKK1E86f3kfZi7JsHn3auhP2qhEeC3RmYmKs/rs:fit:500:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA1LzkwLzQ1LzM1/LzM2MF9GXzU5MDQ1/MzU2MF91Z011UG5j/bkdZQjZYbkpxbUM4/eGlQUXg0ZWczam1N/RC5qcGc"coding" width="500">
+<img algin="right" src="https://pin.it/1YdiAv2"coding" width="500">
 
 - 📝 I regularly write articles on [https://flowcv.me/daisyvisavilwa](https://flowcv.me/daisyvisavilwa)
 
