@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Visavilwa Daisy</h1>
-<h3 align="center">A Tech Enthusiast with a passion for eybersecurity and frontend development. Welcome to my corner of the digital world! 🌐✨</h3>
+<h3 align="center"> Welcome to my corner of the digital world! 🌐✨</h3>
 
-
-- 📝 I regularly write articles on [https://flowcv.me/daisyvisavilwa](https://flowcv.me/daisyvisavilwa)
 
 - 📫 How to reach me **daisyvisavilwa1@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/visavilwa-daisy-766b682](https://www.linkedin.com/in/visavilwa-daisy-766b682)
 
 <h3 align="left">Connect with me:</h3>
