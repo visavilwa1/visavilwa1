@@ -16,7 +16,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/visavilwa1/visavilwa1/output/snake.svg" alt="Snake animation" />
-
-###
