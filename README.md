@@ -1,8 +1,5 @@
-<br clear="both">
 
-<h4 align="left">Hi 👋! <br>I'm a Frontend developer and cybersecurity enthusiast based in Kenya. I find joy in crafting visually appealing and user-friendly interfaces, utilizing the latest technologies to enhance the user experience. Passionate about open-source projects, I contribute to initiative that address unique challenges in the fronted development landscape.</h4>
 
-###
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
