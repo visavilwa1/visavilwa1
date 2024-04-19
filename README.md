@@ -1,25 +1,35 @@
-Hi, I'm Nadia 👩‍💻
-Passionate about front-end development 🤍
-Actively looking for an Internship / a Practicum in Germany or remote
+
+<h4 align="center"><samp> Hi Luv👋  Thank you for passing by! I'm a Junior Front-end Developer Synthetic Trader  and I'm exploring CyberSecurity 🐍 ☁️ </samp></h4>
+
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+</p>
 
 
-About Me :
-🔭 My primary focus is on mastering React. Additionally, I intend to redesign my portfolio using frameworks that I am currently learning such as Tailwind, NextJs & libraries such as Framer Motion!
+<p align="center">
+<a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+<a href= "https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
+<a href= "https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
+</p>
 
-💻 Recent Project: Mini React apps. Check my repository!
+<p align="center"><samp>
+Check out my repos ⬇️  
+  </samp>
+</p>
 
-💫 Goals: From now on I am going to create projects only in React
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=ari-hacks.ari-hacks)
+ -->
+<!--
+**ari-hacks/ari-hacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-🌱 I’m addicted to learning and growing every day
+#ABOUT ME
 
-🤍 I have a deep love for plants:bouquet: and cats:cat:
-
-📫 How to reach me nb.dev@hotmail.com
-
-⚡ Fun fact Everyone pronounces my last name wrong 😅
-
-My socials:
-nadiafedev https://www.linkedin.com/in/nadia-bouli/
-
-💻I speak with:
-bootstrap css3 figma git html5 invision javascript react tailwind
+- 🔭 I’m currently working on .. MNK
+- 🌱 I’m currently learning ...NHJ
+- 👯 I’m looking to collaborate on .HH..
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...JJ
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
