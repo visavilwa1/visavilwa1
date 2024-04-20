@@ -14,7 +14,7 @@
 
 🌱 I’m addicted to learning and growing every day.
 
-🤍 I have a deep love fun stuff and memes.
+🤍 I have a deep love Accesories 🎀 and memes.
 
 📫 **How to reach me:** [daisyvisavilwa1@gmail.com](mailto:daisyvisavilwa@gmail.com)
 
@@ -23,6 +23,7 @@
 ## Socials
 
 - LinkedIn: [Visavilwa Daisy](https://www.linkedin.com/in/visavilwa-daisy-766b68274/)
+- Instagram: [https://www.instagram.com/savi_.store/]
 - Twitter: [@Tessie](https://twitter.com/Savi94858313)
 
 ## Tech Stack
