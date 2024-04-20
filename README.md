@@ -2,7 +2,7 @@
 
 👩‍💻 Passionate Front-End Developer | 🌱 CyberSecurity Enthusiast | 📈 Synthetic Trader  
 
-(https://media.giphy.com/media/3ohzdRrFdchNyM4BNK/giphy.gif)
+![Daisy's GIF](https://media.giphy.com/media/3ohzdRrFdchNyM4BNK/giphy.gif)
 
 ## About Me
 
@@ -16,7 +16,7 @@
 
 🤍 I have a deep love fun stuff and memes.
 
-📫 **How to reach me:** [daisyvisavilwa1@gmail.com](daisyvisavilwa@gmail,com)
+📫 **How to reach me:** [daisyvisavilwa1@gmail.com](mailto:daisyvisavilwa@gmail.com)
 
 ⚡ **Fun Fact:** Everyone pronounces my first name wrong 😅
 
