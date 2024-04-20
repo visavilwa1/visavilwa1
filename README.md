@@ -2,7 +2,7 @@
 
 👩‍💻 Passionate Front-End Developer | 🌱 CyberSecurity Enthusiast | 📈 Synthetic Trader  
 
-![Your GIF](lhttps://media.giphy.com/media/3ohzdRrFdchNyM4BNK/giphy.gif)
+(lhttps://media.giphy.com/media/3ohzdRrFdchNyM4BNK/giphy.gif)
 
 ## About Me
 
