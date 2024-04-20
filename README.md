@@ -1,10 +1,12 @@
-# Hi there! 👋 I'm Nadia Bouli
+# Hi luvs! 👋 I'm Daisy
 
-👩‍💻 Passionate Front-End Developer | 🌱 React Enthusiast | 🌍 Open to Internships/Practicums in Germany or Remote
+👩‍💻 Passionate Front-End Developer | 🌱 CyberSecurity Enthusiast | 📈 Synthetic Trader  
+
+![Your GIF](lhttps://media.giphy.com/media/3ohzdRrFdchNyM4BNK/giphy.gif)
 
 ## About Me
 
-🔭 My primary focus is on mastering React. Additionally, I intend to redesign my portfolio using frameworks that I am currently learning such as Tailwind, Next.js, and libraries such as Framer Motion!
+🔭 Aim to do More React Projects and Colaborations
 
 💻 **Recent Project:** Mini React apps. Check my [repository](link-to-your-repo)!
 
@@ -12,16 +14,16 @@
 
 🌱 I’m addicted to learning and growing every day.
 
-🤍 I have a deep love for plants 🌿 and cats 🐱.
+🤍 I have a deep love fun stuff and memes.
 
-📫 **How to reach me:** [nb.dev@hotmail.com](mailto:nb.dev@hotmail.com)
+📫 **How to reach me:** [daisyvisavilwa1@gmail.com](daisyvisavilwa@gmail,com)
 
-⚡ **Fun Fact:** Everyone pronounces my last name wrong 😅
+⚡ **Fun Fact:** Everyone pronounces my first name wrong 😅
 
 ## Socials
 
-- LinkedIn: [nadiafedev](https://www.linkedin.com/in/nadia-bouli/)
-- Twitter: [@nadiafedev](link-to-your-twitter)
+- LinkedIn: [Visavilwa Daisy](https://www.linkedin.com/in/visavilwa-daisy-766b68274/)
+- Twitter: [@Tessie](https://twitter.com/Savi94858313)
 
 ## Tech Stack
 
@@ -31,5 +33,4 @@
 - CSS3 (Bootstrap, Tailwind)
 - JavaScript (React)
 - Git
-- Figma
-- InVision
+- Canva
