@@ -23,7 +23,7 @@
 ## Socials
 
 - LinkedIn: [Visavilwa Daisy](https://www.linkedin.com/in/visavilwa-daisy-766b68274/)
-- Instagram: [https://www.instagram.com/savi_.store/]
+- Instagram: [Savi_.Store](https://www.instagram.com/savi_.store/)
 - Twitter: [@Tessie](https://twitter.com/Savi94858313)
 
 ## Tech Stack
