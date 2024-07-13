@@ -1,6 +1,6 @@
 # Hi luvs! 👋 I'm Daisy
 
-👩‍💻 Passionate Front-End Developer | 🌱 CyberSecurity Enthusiast | 📈 Synthetic Trader  
+👩‍💻 Passionate Front-End Developer | 🌱 CyberSecurity Enthusiast | 📈  
 
 ![Daisy's GIF](https://media.giphy.com/media/3ohzdRrFdchNyM4BNK/giphy.gif)
 
