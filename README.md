@@ -1,4 +1,4 @@
-# Hi luvs! 👋 I'm Daisy
+# Hi!👋 I'm Daisy
 
 👩‍💻 Passionate Front-End Developer | 🌱 CyberSecurity Enthusiast | 📈  
 
