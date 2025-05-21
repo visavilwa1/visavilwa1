@@ -2,14 +2,28 @@
 
 👩‍💻 Passionate Front-End Developer | 🌱 Cybersecurity Enthusiast | 📈 Lifelong Learner
 
+---
+
+## 📊 GitHub Stats
+
 ![Visavilwa1's GitHub stats](https://github-readme-stats.vercel.app/api?username=visavilwa1&theme=tokyonight&show_icons=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=visavilwa1&theme=tokyonight)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visavilwa1&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 📌 Featured Project
+
+[![Mini React Apps](https://github-readme-stats.vercel.app/api/pin/?username=visavilwa1&repo=mini-react-apps&theme=tokyonight)](https://github.com/visavilwa1/mini-react-apps)
 
 ---
 
 ## 🧠 About Me
 
 - 🔭 Currently working on **React Projects** & open to **collaborations**
-- 💻 **Recent Project:** Mini React apps — Check out the [repository](https://github.com/visavilwa1?tab=repositories)
+- 💻 **Recent Project:** Mini React apps — Check out the [repository](https://github.com/visavilwa1/mini-react-apps)
 - 💫 **Goals:** Focused on building in **React** only from now on!
 - 🌱 Addicted to learning and growing every day
 - 🤍 Love for **accessories 🎀** and memes
@@ -35,7 +49,3 @@
 - ⚛️ JavaScript (React)
 - 🛠️ Git & GitHub
 - 🎨 Canva
-
----
-
-
