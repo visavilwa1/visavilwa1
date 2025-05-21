@@ -38,9 +38,4 @@
 
 ---
 
-## 📌 Featured Repos
 
-<!-- Replace repo names with your actual repos -->
-[![Mini React Apps](https://github-readme-stats.vercel.app/api/pin/?username=visavilwa1&repo=your-repo-name&theme=tokyonight)](https://github.com/visavilwa1/your-repo-name)
-
----
