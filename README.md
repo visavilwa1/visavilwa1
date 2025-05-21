@@ -14,19 +14,6 @@
 
 ---
 
-## 📌 Featured Project
-
-[![Mini React Apps](https://github-readme-stats.vercel.app/api/pin/?username=visavilwa1&repo=mini-react-apps&theme=tokyonight)](https://github.com/visavilwa1/mini-react-apps)
-
----
-
-## 🧠 About Me
-
-- 🔭 Currently working on **React Projects** & open to **collaborations**
-- 💻 **Recent Project:** Mini React apps — Check out the [repository](https://github.com/visavilwa1/mini-react-apps)
-- 💫 **Goals:** Focused on building in **React** only from now on!
-- 🌱 Addicted to learning and growing every day
-- 🤍 Love for **accessories 🎀** and memes
 - ⚡ **Fun Fact:** Everyone pronounces my first name wrong 😅
 
 📫 **Reach me at:** [daisyvisavilwa1@gmail.com](mailto:daisyvisavilwa1@gmail.com)
@@ -41,11 +28,4 @@
 
 ---
 
-## 💻 Tech Stack
 
-**I speak with:**
-
-- 🌐 HTML5, CSS3 (Bootstrap, Tailwind)
-- ⚛️ JavaScript (React)
-- 🛠️ Git & GitHub
-- 🎨 Canva
