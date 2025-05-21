@@ -2,6 +2,7 @@
 
 👩‍💻 Passionate Front-End Developer | 🌱 CyberSecurity Enthusiast | 📈  
 
+[Visavilwa1's GitHub stats](https://github-readme-stats.vercel.app/api?username=visavilwa1&theme=tokyonight&show_icons=true)
 
 ## About Me
 
