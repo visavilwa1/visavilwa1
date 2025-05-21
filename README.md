@@ -11,7 +11,7 @@
 
 ---
 
-⚡ **Fun Fact:** Everyone pronounces my first name wrong 😅
+⚡ **Fun Fact:** Most People Pronounce my first name wrong 😅
 
 📫 **Reach me at:** [daisyvisavilwa1@gmail.com](mailto:daisyvisavilwa1@gmail.com)
 
