@@ -8,13 +8,10 @@
 
 ![Visavilwa1's GitHub stats](https://github-readme-stats.vercel.app/api?username=visavilwa1&theme=tokyonight&show_icons=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=visavilwa1&theme=tokyonight)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visavilwa1&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
-- ⚡ **Fun Fact:** Everyone pronounces my first name wrong 😅
+⚡ **Fun Fact:** Everyone pronounces my first name wrong 😅
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visavilwa1&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 📫 **Reach me at:** [daisyvisavilwa1@gmail.com](mailto:daisyvisavilwa1@gmail.com)
 
